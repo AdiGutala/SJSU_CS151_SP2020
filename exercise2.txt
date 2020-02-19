@@ -1,0 +1,3 @@
+The primitive type int is a primitive data type that stores integer values in the memory.
+On the other hand, the INTEGER class is a wrapper class that converts int to an object and vice versa.
+ 
